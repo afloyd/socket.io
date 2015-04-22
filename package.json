@@ -20,7 +20,7 @@
     "test": "mocha --reporter dot --slow 200ms --bail"
   },
   "dependencies": {
-    "engine.io": "afloyd/engine.io#c9659791bb78c011c35c670d1168db845e39ec16",
+    "engine.io": "afloyd/engine.io#4639a8da74b0eaed06d8328a580f3e84873d59ec",
     "socket.io-parser": "2.2.3",
     "socket.io-client": "automattic/socket.io-client#210d65",
     "socket.io-adapter": "automattic/socket.io-adapter#de5cba",
